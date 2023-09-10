@@ -1,0 +1,10 @@
+.grid-row{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    height: 25px;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+}

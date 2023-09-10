@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 0.7rem;
+    margin-bottom: 0.5rem;
+    background-color: grey;
+}
+.btn{
+    border-radius: 5px;
+    border: none;
+    background-color: skyblue;
+    font-size: 1.2rem;
+    padding: 0.2rem;
+}
+.btn:hover{
+    background-color: orange;
+}
+.algo-select:hover{
+    background-color: #f71695;
+}
+.algo-select{
+    border-radius: 5px;
+    border: none;
+    background-color: #ffbd03;
+    font-size: 1.2rem;
+    padding: 0.2rem;
+
+}
